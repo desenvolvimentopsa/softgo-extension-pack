@@ -1,0 +1,51 @@
+{
+  "name": "softgo-extension-pack",
+  "displayName": "Extensões do VSCode",
+  "description": "Desenvolvedores na SoftGO - Conjunto de Extensões.",
+  "version": "1.1.0",
+  "publisher": "willianjusten",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "next",
+    "styled-components",
+    "graphql",
+    "apollo"
+  ],
+  "repository": {
+    "url": "https://github.com/React-Avancado/reactavancado-extension-pack"
+  },
+  "homepage": "https://github.com/React-Avancado/reactavancado-extension-pack",
+  "bugs": {
+    "url": "https://github.com/React-Avancado/reactavancado-extension-pack/issues"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "mrmlnc.vscode-duplicate",
+    "patbenatar.advanced-new-file",
+    "waderyan.gitblame",
+    "ms-vsliveshare.vsliveshare",
+    "jpoissonnier.vscode-styled-components",
+    "xabikos.javascriptsnippets",
+    "andys8.jest-snippets",
+    "skyran.js-jsx-snippets",
+    "pulkitgangwar.nextjs-snippets",
+    "zhuangtongfa.material-theme",
+    "ms-vscode.vscode-typescript-next",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ]
+}
